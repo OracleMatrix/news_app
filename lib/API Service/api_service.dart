@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:news_app/Models/all_news_model.dart';
 
 class ApiService {
-  final String apiKey = "ae70f501447e4095826bee9bae10ff45";
+  final String apiKey = "YOUR_API_TOKEN";
 
   Future<AllNewsModel> getAllNews({String? query = "economy"}) async {
     final response = await Dio()
