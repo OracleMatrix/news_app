@@ -12,15 +12,10 @@ A Flutter News Application
 * open news links
 
 # ScreenShots
-![home_dark.png](home_dark.png)
-
-![theme_switch.png](theme_switch.png)
-
-![home_light.png](home_light.png)
-
-![details_page.png](details_page.png)
-
-![sharelink.png](sharelink.png)
+| Home with dark theme | Theme switch and drawer | Light mode |
+|---|---|---|
+| ![home_dark.png](home_dark.png) | ![theme_switch.png](theme_switch.png) | ![home_light.png](home_light.png) |
+| ![details_page.png](details_page.png) | ![sharelink.png](sharelink.png) |
 
 
 
