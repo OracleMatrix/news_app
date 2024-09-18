@@ -15,6 +15,7 @@ A Flutter News Application
 | Home with dark theme | Theme switch and drawer | Light mode |
 |---|---|---|
 | ![home_dark.png](home_dark.png) | ![theme_switch.png](theme_switch.png) | ![home_light.png](home_light.png) |
+| News Detail page | Share the news |
 | ![details_page.png](details_page.png) | ![sharelink.png](sharelink.png) |
 
 
