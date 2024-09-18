@@ -19,7 +19,6 @@ A Flutter News Application
 | ![details_page.png](details_page.png) | ![sharelink.png](sharelink.png) |
 
 
-
 ## Getting Started
 1. Clone the repository: git clone https://github.com/OracleMatrix/news_app.git
 2. Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
